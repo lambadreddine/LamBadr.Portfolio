@@ -1,11 +1,11 @@
 title: Badreddine Lamraoui
-logo: 1767925518853.jpg
+logo: 3.jpg
 description: Ph.D. Researcher in Electromechanical Engineering | Deep Learning & Condition Monitoring
 show_downloads: false
 theme: jekyll-theme-minimal
 # Add a link back to your main GitHub profile in the sidebar
-github:
-  is_project_page: false
+#github:
+  #is_project_page: false
 
 # Google Analytics (Just replace with your actual ID if you use it)
-google_analytics: UA-XXXXXXXXX-X
+#google_analytics: UA-XXXXXXXXX-X
