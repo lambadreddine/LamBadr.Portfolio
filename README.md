@@ -53,12 +53,12 @@ Industrial Maintenance Engineer and PhD Researcher with a strong foundation in r
 | **Predictive Maintenance** | Vibration analysis, thermography, oil analysis, condition monitoring. |
 | **Signal Processing** | FFT, Wavelet Transform, feature extraction, denoising techniques. |
 | **Machine Learning & AI** | Python (Scikit-learn, TensorFlow), classification, anomaly detection. |
-| **Programming & Tools** | MATLAB, C/C++ (basics), Simulink, LabVIEW (basic), GitHub. |
+| **Software & Engineering Tools** | MATLAB & Simulink, LabVIEW (basic), C/C++ (basics), GitHub. |
+| **Backend & DevOps** | FastAPI, Docker, Supabase. |
+| **Documentation & Research** | LaTeX, Microsoft Office. |
 | **Languages** | Arabic (native), English (professional), French (intermediate). |
 
 ---
 
 ## 📄 Download Full CV
-📥 [Download CV.pdf](./CV.pdf) *(Make sure to upload your CV.pdf to the same directory in this GitHub repository)*
-
-Automated Crack Detection in Plates using Wavelets and ML (UPC internship project) – link to GitHub or report
+📥 [Download CV.pdf](./CV.pdf) 
