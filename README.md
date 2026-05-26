@@ -4,6 +4,7 @@
 ## Research Intern | CDIF Laboratory, Universitat Politècnica de Catalunya (UPC),Spain [21/11/2024 – 26/12/2024]
 ▪ Conducted high-level analysis of experimental plate crack data using advanced signal
 processing (e.g., FFT, Wavelets) and Machine Learning algorithms.
+
 ▪ Developed automated models to identify structural integrity issues, reducing the
 manual effort required for complex industrial diagnostics.
 ## Maintenance Intern | Technology Hall, USTHB, Algeria [10/05/2021 – 12/06/2021]
