@@ -1,3 +1,10 @@
-title: Lamraoui badreddine
-show_downloads:true
-theme: jekyll-theme-minima
+title: Badreddine Lamraoui
+description: Ph.D. Researcher in Electromechanical Engineering | Deep Learning & Condition Monitoring
+show_downloads: false
+theme: jekyll-theme-minimal
+# Add a link back to your main GitHub profile in the sidebar
+github:
+  is_project_page: false
+
+# Google Analytics (Just replace with your actual ID if you use it)
+google_analytics: UA-XXXXXXXXX-X
