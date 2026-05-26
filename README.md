@@ -60,24 +60,10 @@ Conducted an experimental investigation on a rotating machinery vibration test r
 - Outer-race bearing faults (ORF)
 
 The study employed vibration-based condition monitoring techniques in both the time and frequency domains.
+
 ![Workflow](images/workflow.png)
 
-**Methods and Techniques**
-- RMS analysis (velocity and displacement)
-- FFT spectral analysis
-- Harmonic analysis of rotational frequency components
-- Kurtosis analysis
-- Crest factor analysis
-- Envelope analysis
-
-**Main Findings**
-- RMS indicators successfully detected angular misalignment severity.
-- Harmonic analysis revealed characteristic rotational frequency harmonics associated with misalignment.
-- Kurtosis and crest factor highlighted impulsive signatures caused by bearing defects.
-- Envelope analysis clearly identified bearing outer-race fault frequencies.
-
-**Tools**
-MATLAB • Vibration Analysis • Signal Processing • FFT • Condition Monitoring • Predictive Maintenance
+This project presents an experimental vibration-based fault diagnosis study conducted on a rotating machinery test rig to detect angular misalignment and bearing outer-race faults. Vibration signals were analyzed using time-domain and frequency-domain techniques, including RMS analysis, FFT spectral analysis, harmonic analysis, kurtosis, crest factor, and envelope analysis. The results demonstrated that RMS and harmonic components effectively identified misalignment severity, while kurtosis, crest factor, and envelope spectra successfully revealed impulsive signatures and characteristic frequencies associated with bearing defects. The study was performed using MATLAB and advanced signal processing methods within the context of condition monitoring and predictive maintenance of rotating machinery.
 
 🔗 GitHub Repository
 
