@@ -45,7 +45,51 @@ Industrial Maintenance Engineer and PhD Researcher with a strong foundation in r
 * Documented fault-finding procedures and proposed preventive maintenance measures to avoid recurrence.
 
 ---
+##  Research Interests
+* Predictive Maintenance
+* Fault Diagnosis
+* Deep Learning
+* Signal Processing
+* Condition Monitoring
+## Projects
 
+### Experimental Detection of Misalignment, and Bearing Faults Using Vibration Analysis
+**Master's Thesis Project**
+Conducted an experimental investigation on a rotating machinery vibration test rig to diagnose:
+- Angular misalignment
+- Outer-race bearing faults (ORF)
+
+The study employed vibration-based condition monitoring techniques in both the time and frequency domains.
+![Workflow](images/workflow.png)
+
+**Methods and Techniques**
+- RMS analysis (velocity and displacement)
+- FFT spectral analysis
+- Harmonic analysis of rotational frequency components
+- Kurtosis analysis
+- Crest factor analysis
+- Envelope analysis
+
+**Main Findings**
+- RMS indicators successfully detected angular misalignment severity.
+- Harmonic analysis revealed characteristic rotational frequency harmonics associated with misalignment.
+- Kurtosis and crest factor highlighted impulsive signatures caused by bearing defects.
+- Envelope analysis clearly identified bearing outer-race fault frequencies.
+
+**Tools**
+MATLAB • Vibration Analysis • Signal Processing • FFT • Condition Monitoring • Predictive Maintenance
+
+🔗 GitHub Repository
+
+---
+
+## Publications
+
+### Conference Papers
+
+- Conference on Mechanical Sciences, December 10–11, 2025
+- Conference on Environmental Sciences and Sustainability (CESS’25)
+  
 ## 🛠️ Key Skills
 
 | Category | Skills & Competencies |
