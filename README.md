@@ -5,7 +5,7 @@
 
 ---
 
-## 🧑‍💼 Professional Summary
+##  Professional Summary
 Industrial Maintenance Engineer and PhD Researcher with a strong foundation in rotating machinery and industrial systems. Currently finalizing doctoral research in predictive maintenance, specializing in AI-driven fault detection and signal processing. Proven ability to translate complex data models into actionable maintenance strategies that minimize downtime and optimize operational costs. Seeking to leverage advanced diagnostic expertise to improve asset reliability in a high-paced industrial environment.
 
 ---
@@ -61,4 +61,4 @@ Industrial Maintenance Engineer and PhD Researcher with a strong foundation in r
 ---
 
 ## 📄 Download Full CV
-📥 [Download CV.pdf](./CV.pdf) 
+📥 [Download CV.pdf](./files/CV.pdf)
