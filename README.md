@@ -51,6 +51,8 @@ Industrial Maintenance Engineer and PhD Researcher with a strong foundation in r
 * Deep Learning
 * Signal Processing
 * Condition Monitoring
+
+---
 ## Projects
 
 ### Experimental Detection of Misalignment, and Bearing Faults Using Vibration Analysis
