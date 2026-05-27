@@ -71,8 +71,8 @@ Conducted a rigorous condition-monitoring study on a localized machinery test ri
 
 ### Conference Papers
 
-- Conference on Mechanical Sciences, December 10–11, 2025
-- Conference on Environmental Sciences and Sustainability (CESS’25)
+- Conference on Mechanical Sciences (2025)
+- Conference on Environmental Sciences and Sustainability (CESS’25) (2025)
   
 ## 🛠️ Key Skills
 
