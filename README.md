@@ -55,21 +55,15 @@ Industrial Maintenance Engineer and PhD Researcher with a strong foundation in r
 
 ### Experimental Detection of Misalignment, and Bearing Faults Using Vibration Analysis
 **Master's Thesis Project**
-Conducted an experimental investigation on a rotating machinery vibration test rig to diagnose:
-- Angular misalignment
-- Outer-race bearing faults (ORF)
-
-The study employed vibration-based condition monitoring techniques in both the time and frequency domains.
-
+Conducted a rigorous condition-monitoring study on a localized machinery test rig to detect, characterize, and isolate low-frequency structural anomalies from high-frequency component defects using multi-axial vibration signatures.
+* **Experimental Foundation:** Acquired multi-speed (10 Hz to 25 Hz) tri-axial vibration signals (Vertical, Horizontal, Axial) via a Model 603C01 accelerometer streamed through NI LabVIEW.
+* **Structural Fault Mapping:** Isolated **Angular Misalignment** along the **Axial plane**, identifying a dominant $1\times f_r$ harmonic signature in the *displacement* domain and key $3\times f_r$ / $4\times f_r$ harmonic multipliers in the *velocity* domain.
+* **Component Fault Mapping:** Diagnosed localized **Bearing Outer-Race Defects** along the **Horizontal Radial plane** using *acceleration* signals, triggering immediate alarms via time-domain **Kurtosis** spikes and isolating specific fault lines ($BPFO$) via **Hilbert Envelope Analysis**.
+* **Core Tech Stack:** MATLAB • Signal Processing • Condition-Based Maintenance • Time/Frequency Demodulation
 ![Workflow](workflow.jpg)
 
-This study focuses on condition monitoring of mechanical faults using vibration analysis. Vibration analysis is widely used to assess machine operating states through statistical and spectral indicators computed from vibration signals generated during operation.
-The experimental work was carried out on a vibration test rig. The measured signals were processed using different vibration analysis techniques, including time-domain analysis (RMS, peak value, crest factor, kurtosis) and frequency-domain analysis (FFT, Hilbert envelope analysis).
-The study began with general concepts related to condition-based maintenance and the importance of vibration analysis. The second part introduced angular misalignment and bearing defects as major sources of vibration in rotating machines, along with their typical signatures to support identification and monitoring.
-The experimental section focused on detecting angular misalignment, which mainly appears at low frequencies, and bearing faults, which appear at higher frequencies. Measurements were taken in three directions (vertical, horizontal, and axial) to better localize faults, using RMS, FFT, and envelope analysis.
-The angular misalignment test showed that the defect is mainly detectable in the axial direction and is characterized by the first harmonic in displacement and by the third or fourth harmonics in velocity. The bearing fault test showed that this defect can be diagnosed mainly in the horizontal radial direction using acceleration signals.
+🔗 [👉 Click Here to View Full Source Code & Deep-Dive Analysis](https://github.com/lambadreddine/Experimental-Vibration-Fault-Diagnosis-Using-Statistical-and-Spectral-Analysis)
 
-🔗 [GitHub Repository]([https://github.com/yourusername/Rotating-Machinery-Fault-Diagnosis](https://github.com/lambadreddine/Experimental-Vibration-Fault-Diagnosis-Using-Statistical-and-Spectral-Analysis))
 
 ---
 
