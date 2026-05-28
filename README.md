@@ -85,7 +85,7 @@ Developed an end-to-end automated artificial intelligence pipeline to identify, 
 ## Publications
 
 ### Conference Papers
-
+[![ORCID Profile](https://orcid.org/0009-0003-3792-8136)
 - Conference on Mechanical Sciences (2025)
 - Conference on Environmental Sciences and Sustainability (CESS’25) (2025)
   
