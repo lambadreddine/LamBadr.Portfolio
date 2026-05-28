@@ -62,7 +62,7 @@ Conducted a rigorous condition-monitoring study on a localized machinery test ri
 * **Structural Fault Mapping:** Isolated **Angular Misalignment** along the **Axial plane**, identifying a dominant $1\times f_r$ harmonic signature in the *displacement* domain and key $3\times f_r$ / $4\times f_r$ harmonic multipliers in the *velocity* domain.
 * **Component Fault Mapping:** Diagnosed localized **Bearing Outer-Race Defects** along the **Horizontal Radial plane** using *acceleration* signals, triggering immediate alarms via time-domain **Kurtosis** spikes and isolating specific fault lines ($BPFO$) via **Hilbert Envelope Analysis**.
 * **Core Tech Stack:** MATLAB • Signal Processing • Condition-Based Maintenance • Time/Frequency Demodulation
-![Workflow](Workflow_2.jpg)
+![Workflow](workflow.jpg)
 
 🔗 [👉 Click Here to View Full Source Code & Deep-Dive Analysis](https://github.com/lambadreddine/Experimental-Vibration-Fault-Diagnosis-Using-Statistical-and-Spectral-Analysis)
 
@@ -75,7 +75,7 @@ Developed an end-to-end automated artificial intelligence pipeline to identify, 
 * **Model Optimization:** Evaluated classical classifiers (SVM, KNN, Naive Bayes, Random Forest) against Deep Learning, where a **Feedforward Neural Network (FNN)** achieved a champion classification accuracy of **99.7%** across 4 classes (Healthy, Unbalance, Misalignment, Outer-Race Fault).
 * **Core Tech Stack:** Machine Learning • Feedforward Neural Networks (FNN) • MATLAB  • Wavelet Decomposition (DWT) • Feature Extraction
 
-![Workflow](workflow_2.jpg)
+![Workflow](Workflow_2.jpg)
 
 🔗 [👉 Click Here to View Full Source Code & Machine Learning Architecture](https://github.com/lambadreddine/DWT_ML_Project)
 
