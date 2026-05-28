@@ -66,6 +66,19 @@ Conducted a rigorous condition-monitoring study on a localized machinery test ri
 
 🔗 [👉 Click Here to View Full Source Code & Deep-Dive Analysis](https://github.com/lambadreddine/Experimental-Vibration-Fault-Diagnosis-Using-Statistical-and-Spectral-Analysis)
 
+### 🤖 Intelligent Machinery Fault Diagnosis via DWT & Feedforward Neural Networks
+
+Developed an end-to-end automated artificial intelligence pipeline to identify, isolate, and classify multiple mechanical faults by applying multi-level wavelets and machine learning classifiers on experimental test rig data.
+
+* **The AI Pipeline:** Applied sequence preprocessing (Normalization & Segmentation) followed by a **5-Level Discrete Wavelet Transform (DWT)** to extract time-frequency coefficients.
+* **Feature Engineering:** Built a robust **Feature Matrix** by extracting 10 distinct statistical metrics (Kurtosis, RMS, Crest Factor, Skewness, etc.) across all wavelet details ($D_1-D_5$) and approximations ($A_5$).
+* **Model Optimization:** Evaluated classical classifiers (SVM, KNN, Naive Bayes, Random Forest) against Deep Learning, where a **Feedforward Neural Network (FNN)** achieved a champion classification accuracy of **99.7%** across 4 classes (Healthy, Unbalance, Misalignment, Outer-Race Fault).
+* **Core Tech Stack:** Machine Learning • Feedforward Neural Networks (FNN) • MATLAB  • Wavelet Decomposition (DWT) • Feature Extraction
+
+![Workflow](workflow_2.jpg)
+
+🔗 [👉 Click Here to View Full Source Code & Machine Learning Architecture](https://github.com/lambadreddine/DWT_ML_Project)
+
 
 ---
 
