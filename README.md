@@ -66,7 +66,7 @@ Conducted a rigorous condition-monitoring study on a localized machinery test ri
 
 🔗 [👉 Click Here to View Full Source Code & Deep-Dive Analysis](https://github.com/lambadreddine/Experimental-Vibration-Fault-Diagnosis-Using-Statistical-and-Spectral-Analysis)
 
-### 🤖 Intelligent Machinery Fault Diagnosis via DWT & Feedforward Neural Networks
+###  Intelligent Machinery Fault Diagnosis via DWT & Feedforward Neural Networks
 
 Developed an end-to-end automated artificial intelligence pipeline to identify, isolate, and classify multiple mechanical faults by applying multi-level wavelets and machine learning classifiers on experimental test rig data.
 
@@ -79,6 +79,20 @@ Developed an end-to-end automated artificial intelligence pipeline to identify, 
 
 🔗 [👉 Click Here to View Full Source Code & Machine Learning Architecture](https://github.com/lambadreddine/DWT_ML_Project)
 
+###  Advanced Multi-Channel Spectrogram CNN-BiLSTM-Attention Deep Learning Framework
+
+Implemented a sophisticated, end-to-end deep learning diagnostic network that processes tri-axial raw acceleration signals as 2D time-frequency log-spectrograms, bypassing traditional feature selection to track non-stationary machinery transients automatically.
+
+####  System Pipeline Workflow
+
+![Workflow](Workflow_3.jpg)
+
+* **Advanced Topology Design:** Combines a **2D Residual CNN Block** for cross-axial spatial pattern tracking, an **Adaptive Average Pool** layer, a **BiLSTM recurrent sequence engine**, and a custom **Global Attention Pooling** module that mathematically prioritizes transient fault shocks over noise background.
+* **Rigorous Validation & Scale:** Implemented file-wise data isolation to enforce zero validation leakage across **7 dense industrial classes** (*Normal, Horizontal Misalignment, Vertical Misalignment, Rotor Unbalance, Bearing Fault, Cocked Flush Fault, and Outer-Race Defects*).
+* **Automated Diagnostic Diagnostics:** Programmed the training environment to output automated log-distributions, multi-class ROC curves, and high-fidelity **t-SNE latent space visualizations** mapping the exact clustering separation of deep feature embeddings.
+* **Core Tech Stack:** Deep Learning • PyTorch • Convolutional Neural Networks (2D CNN) • Recurrent Networks (BiLSTM) • Attention Mechanisms • STFT Time-Frequency Analysis • Scikit-Learn
+
+🔗 [👉 Click Here to View Full Deep Learning Source Code & Diagnostic Plots](https://github.com/lambadreddine/Deep-Learning-Fault-Diagnosis)
 
 ---
 
