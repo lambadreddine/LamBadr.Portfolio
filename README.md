@@ -83,11 +83,9 @@ Developed an end-to-end automated artificial intelligence pipeline to identify, 
 
 Implemented a sophisticated, end-to-end deep learning diagnostic network that processes tri-axial raw acceleration signals as 2D time-frequency log-spectrograms, bypassing traditional feature selection to track non-stationary machinery transients automatically.
 
-####  System Pipeline Workflow
-
 ![Workflow](Workflow_3.jpg)
 
-* **Advanced Topology Design:** Combines a **2D Residual CNN Block** for cross-axial spatial pattern tracking, an **Adaptive Average Pool** layer, a **BiLSTM recurrent sequence engine**, and a custom **Global Attention Pooling** module that mathematically prioritizes transient fault shocks over noise background.
+* **Hybrid Architecture Design:** Combines a **2D Residual CNN Block** to extract visual features from individual spectrogram channels, an **Adaptive Average Pool** layer to collapse the frequency axis, a **BiLSTM network** to capture forward and backward time-series contexts, and a **Global Attention Pooling** layer to weight and compress temporal steps into a final feature vector.
 * **Rigorous Validation & Scale:** Implemented file-wise data isolation to enforce zero validation leakage across **7 dense industrial classes** (*Normal, Horizontal Misalignment, Vertical Misalignment, Rotor Unbalance, Bearing Fault, Cocked Flush Fault, and Outer-Race Defects*).
 * **Automated Diagnostic Diagnostics:** Programmed the training environment to output automated log-distributions, multi-class ROC curves, and high-fidelity **t-SNE latent space visualizations** mapping the exact clustering separation of deep feature embeddings.
 * **Core Tech Stack:** Deep Learning • PyTorch • Convolutional Neural Networks (2D CNN) • Recurrent Networks (BiLSTM) • Attention Mechanisms • STFT Time-Frequency Analysis • Scikit-Learn
